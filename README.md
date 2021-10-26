@@ -18,7 +18,7 @@
 3. Raport III (7.12.2021)
   * Wstępne zaimplementowanie mechaniki światła 
   * Dodanie dodatkowych platform, które będą reagować na światło
-4. Raport IV (21.12)
+4. Raport IV (21.12.2021)
   * Reagowanie nietoperzy na światło
   * Mechanika nietoperzy polegająca na próbie "ataku" gracza
   * Licznik zdobytych punktów 
